@@ -50,6 +50,3 @@ Bootstrap: For the UI components and grid system.
 React Community: For the rich ecosystem and documentation.
 
 ---
-
-### Instructions:
-1. **Add screenshots**: Save screenshots in a `screenshots/` folder and update the paths in the README.
