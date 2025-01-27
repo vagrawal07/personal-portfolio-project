@@ -1,11 +1,12 @@
 import React from "react";
+import myImage from "../IMG_9421.JPG";
 
 function About() {
   return (
     <section className="container my-5">
       <div className="d-flex flex-column flex-md-row align-items-center">
         <img
-          src="https://github.com/vagrawal07/personal-portfolio-project/blob/main/part3/public/IMG_9421.JPG"
+          src={myImage}
           alt="Vaibhav Agrawal"
           className="rounded-circle"
           style={{ width: "150px", height: "150px", marginRight: "20px" }}
